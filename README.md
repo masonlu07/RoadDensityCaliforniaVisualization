@@ -14,6 +14,21 @@ Overall, this visualization showcases the distribution of road infrastructure in
  
 
 
+### Data Source
+
+The dataset is provided from the link. 
+
+Dataset: https://data.ca.gov/@caltrans/california-all-public-roads-network
+
+Download the Shapefile (ZIP) and extract the files.
+
+
+
+
+
+
+
+
 ### Reproducing the Visualization
 
 1.) Download or clone this GitHub repository.
